@@ -1,0 +1,10 @@
+button img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    border-radius: 500px;
+}
+button {
+    border-radius: 500px;
+    border-color: white;
+}
